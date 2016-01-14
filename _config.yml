@@ -1,6 +1,6 @@
 name: mlaurel
 favicon: null
-layout_spectrum: 0.25741197587922215
+layout_spectrum: 1
 typography_spectrum: 0.7362692265305668
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.8802976901642978
+  brandStrength: 0.8125
   lightness: 0.8321661890950054
   saturation: 0.18306881771422923
   rhythmicContrast: 0.2817891265731305
